@@ -1,4 +1,5 @@
 <div class="wrap">
+<?=$pre;?>
 	<h1 class="wp-heading-inline mc_title"><?=$title;?></h1>
 	<div class="mc_section">
 		<h2>Настройки импорта файла</h2>
